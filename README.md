@@ -1,2 +1,2 @@
 # finance-portfolio-optimization
-finance porfoli0 optimization project using Qiskit (Python)
+finance porfolio optimization project using Qiskit (Python)
